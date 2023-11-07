@@ -1,0 +1,7 @@
+#singleP{
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-content:space-around;
+    padding:10px
+}
